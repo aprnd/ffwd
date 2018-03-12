@@ -1,0 +1,11 @@
+{
+  "ffwd": {
+    "enable_namespaces": true
+  },
+  "settings": {
+    "server_var": "test"
+  },
+  "public_settings": {
+    "client_var": "foobar"
+  }
+}
