@@ -1,14 +1,13 @@
 {
   "name": "ffwd-test",
   "version": "1.0.0",
+  "main": "build/index.js",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Applied Research & Development",
   "license": "ISC",
-  "devDependencies": {
-    "eslint": "^4.18.2"
+  "dependencies": {
   }
 }
